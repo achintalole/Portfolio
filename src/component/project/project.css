@@ -1,0 +1,59 @@
+.project0 {
+  position: absolute;
+  top: 45px;
+  right: 0;
+  width: 79.5%;
+  height: 100%;
+
+  justify-content: center;
+  background: url(pp.png);
+  background-size: 100% 100%;
+}
+.project0 h1 {
+  color: aqua;
+  margin: 0 200px;
+}
+.project1 {
+  position: absolute;
+  top: 8%;
+  width: 90%;
+  height: 25%;
+  left: 30px;
+}
+.project1 h1 {
+  font-size: x-large;
+  color: steelblue;
+}
+.project2 {
+  position: absolute;
+  top: 36%;
+  width: 95%;
+  height: 25%;
+  left: 30px;
+}
+.project2 h1 {
+  font-size: revert;
+  color: steelblue;
+  /* font-stretch: revert; */
+}
+
+.menu_5 {
+  box-shadow: 0 0 0 2000px rgba(0, 0, 0, 0);
+}
+.menu_5:hover {
+  box-shadow: 0 0 0 2000px rgba(0, 0, 0, 0.5);
+}
+
+.project3 {
+  position: absolute;
+  top: 64%;
+  width: 95%;
+  height: 25%;
+  left: 30px;
+
+  opacity: 0.6;
+}
+.project3 h1 {
+  font-size: revert;
+  color: steelblue;
+}
